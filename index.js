@@ -1,3 +1,6 @@
+//-----------------------------AUTHOR: Follow on Instagram @_.b_a_a_g_h_i._ -------------------------------//
+
+
 window.onload = function () {
     const increase = document.querySelector("#increase");
     const decrease = document.querySelector("#decrease");
@@ -29,3 +32,6 @@ window.onload = function () {
     //     alert("hey");
     //   }, 2000);
   };
+
+
+  //-----------------------------AUTHOR: Follow on Instagram @_.b_a_a_g_h_i._ -------------------------------//
